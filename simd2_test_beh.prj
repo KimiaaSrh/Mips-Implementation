@@ -1,0 +1,3 @@
+verilog work "simd2.v"
+verilog work "simd2_test.v"
+verilog work "D:/xilinx/setUp/14.7/ISE_DS/ISE//verilog/src/glbl.v"

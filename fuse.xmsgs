@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 47: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 48: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 49: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 50: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 51: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 52: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 53: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 54: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 55: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1575" delta="unknown" >"D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 56: Instantiation is not allowed in sequential area except checker instantiation
+</msg>
+
+<msg type="error" file="Simulator" num="778" delta="unknown" >Static elaboration of top level Verilog design unit(s) in library <arg fmt="%s" index="1">work</arg> failed
+</msg>
+
+</messages>
+

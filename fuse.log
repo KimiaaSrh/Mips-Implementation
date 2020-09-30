@@ -1,0 +1,20 @@
+Running: D:\xilinx\setUp\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/com/arch lab/final9532275_kimiaSoroush/simd2_test_isim_beh.exe -prj D:/com/arch lab/final9532275_kimiaSoroush/simd2_test_beh.prj work.simd2_test work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" into library work
+Analyzing Verilog file "D:/com/arch lab/final9532275_kimiaSoroush/simd2_test.v" into library work
+Analyzing Verilog file "D:/xilinx/setUp/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 47: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 48: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 49: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 50: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 51: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 52: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 53: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 54: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 55: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:HDLCompiler:1575 - "D:/com/arch lab/final9532275_kimiaSoroush/simd2.v" Line 56: Instantiation is not allowed in sequential area except checker instantiation
+ERROR:Simulator:778 - Static elaboration of top level Verilog design unit(s) in library work failed
